@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="213" viewBox="0 0 1060 213" role="img" aria-label="Developer milestones">
+ <rect width="1060" height="213" rx="18" fill="#0d1117"/>
+ <rect x="1.5" y="1.5" width="1057" height="210" rx="17" stroke="#30363d" fill="none"/>
+ <text x="32" y="42" fill="#c9d1d9" font-size="14" letter-spacing="4" font-family="Arial,sans-serif">THE LONG GAME / DEVELOPER MILESTONES</text>
+ <path d="M31 58 H1029" stroke="#30363d"/>
+ <g font-family="Arial,sans-serif">
+  <g transform="translate(38,79)"><circle cx="26" cy="32" r="24" fill="none" stroke="#a9b1ba" stroke-width="1.7"/><text x="26" y="39" text-anchor="middle" fill="#f2f4f7" font-size="17" font-weight="bold">01</text><text x="65" y="30" font-size="21" fill="#f1f3f5" font-weight="bold">LEARN</text><text x="65" y="57" font-size="13" fill="#a3acb7">Deepen foundations</text></g>
+  <g transform="translate(290,79)"><circle cx="26" cy="32" r="24" fill="none" stroke="#a9b1ba" stroke-width="1.7"/><text x="26" y="39" text-anchor="middle" fill="#f2f4f7" font-size="17" font-weight="bold">02</text><text x="65" y="30" font-size="21" fill="#f1f3f5" font-weight="bold">BUILD</text><text x="65" y="57" font-size="13" fill="#a3acb7">Ship useful projects</text></g>
+  <g transform="translate(542,79)"><circle cx="26" cy="32" r="24" fill="none" stroke="#a9b1ba" stroke-width="1.7"/><text x="26" y="39" text-anchor="middle" fill="#f2f4f7" font-size="17" font-weight="bold">03</text><text x="65" y="30" font-size="21" fill="#f1f3f5" font-weight="bold">REFINE</text><text x="65" y="57" font-size="13" fill="#a3acb7">Test and improve</text></g>
+  <g transform="translate(794,79)"><circle cx="26" cy="32" r="24" fill="none" stroke="#a9b1ba" stroke-width="1.7"/><text x="26" y="39" text-anchor="middle" fill="#f2f4f7" font-size="17" font-weight="bold">04</text><text x="65" y="30" font-size="21" fill="#f1f3f5" font-weight="bold">SHARE</text><text x="65" y="57" font-size="13" fill="#a3acb7">Document and learn</text></g>
+ </g>
+ <path d="M41 175 H1019" stroke="#30363d"/>
+ <text x="530" y="197" text-anchor="middle" font-size="12" font-family="ui-monospace,monospace" fill="#8b949e">No artificial trophy counts · Real progress is visible in projects and contributions</text>
+</svg>

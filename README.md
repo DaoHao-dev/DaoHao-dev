@@ -1,183 +1,123 @@
 <div align="center">
 
-<!-- Original Dragon Ball-inspired banner created for this GitHub profile. -->
-<img src="assets/dragon-ball-hero.png" alt="Dao Phuoc Hao - Dragon Ball inspired developer banner" width="100%" />
+<img src="assets/daohao-banner.jpg" alt="DaoHao-dev | Monochrome developer banner" width="100%" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=1100&color=FF9B35&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=66&lines=Hey%2C+I%27m+Dao+Phuoc+Hao+%F0%9F%91%8B;Third-Year+IT+Student+%7C+Software+Builder;Learning.+Building.+Leveling+Up.+%E2%9A%A1;My+developer+training+arc+starts+here!" alt="Animated introduction" />
+<img src="assets/intro.svg" alt="Software engineering, problem solving and building useful things" width="92%" />
 
 <br />
 
-<a href="https://github.com/DaoHao-dev?tab=followers"><img src="https://img.shields.io/github/followers/DaoHao-dev?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=ff8a26&labelColor=141414" alt="Followers" /></a>
-<a href="https://github.com/DaoHao-dev?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-ff8a26?style=for-the-badge&logo=github&logoColor=white&labelColor=141414" alt="Explore repositories" /></a>
-<img src="https://komarev.com/ghpvc/?username=DaoHao-dev&label=Profile+views&color=ff8a26&style=for-the-badge" alt="Profile view counter" />
+### Third-year IT Student &nbsp;·&nbsp; Aspiring Software Engineer &nbsp;·&nbsp; Vietnam
+
+**Learn deliberately. Build thoughtfully. Improve continuously.**
+
+[**PROFILE**](https://github.com/DaoHao-dev) &nbsp;•&nbsp; [**REPOSITORIES**](https://github.com/DaoHao-dev?tab=repositories) &nbsp;•&nbsp; [**GITHUB ACHIEVEMENTS**](https://github.com/DaoHao-dev?tab=achievements)
 
 </div>
 
 ---
 
-<div align="center"><h2>⚡ SCOUTER REPORT · ABOUT ME</h2></div>
+## 01 — About
+
+```text
+> whoami
+  Alias       : DaoHao-dev
+  Focus       : Software engineering & practical development
+  Current     : Year 3 · Information Technology
+  Approach    : Understand the problem → design → build → improve
+```
+
+I'm a third-year Information Technology student interested in the engineering decisions behind dependable software. I enjoy exploring programming fundamentals, solving problems, and creating practical tools that make complex tasks simpler.
+
+My current direction is to strengthen core computer science knowledge while getting more experience with **software development, automation, systems, and debugging**. I value clear documentation, maintainable code, and steady progress over flashy claims.
+
+> “Consistency compounds. Small improvements, committed daily.”
+
+## 02 — What I'm Exploring
+
+| Area | Learning focus |
+|:--|:--|
+| **Programming** | Algorithms, problem solving, object-oriented principles |
+| **Software engineering** | Code organization, testing, debugging, clean design |
+| **Data & systems** | Databases, networking fundamentals, system behavior |
+| **Developer workflow** | Git, GitHub, documentation and automation |
+| **Curiosity zone** | Desktop tools, game servers and modded environments |
+
+**Topics & tools on my radar:** `Java` `JavaScript` `Python` `SQL` `Git` `Linux` `APIs` `Automation`
+
+<sub>These are areas of study and exploration, not claims of professional proficiency in every technology.</sub>
+
+## 03 — Selected Projects
 
 <table>
-<tr>
-<td width="59%" valign="top">
-
-### Hi, I'm Hảo! 👋
-
-I'm a **third-year Information Technology student** in Vietnam, building a solid foundation in computer science while turning ideas into practical projects.
-
-- 🎓 **Current arc:** Studying IT, strengthening core engineering principles.
-- 🧠 **Core interests:** Programming, data structures, algorithms, databases, and software design.
-- 🛠️ **I like building:** Developer tools, automation scripts, and systems that solve real problems.
-- 🎮 **Side quests:** Minecraft modding, server customization, and game-related software.
-- 🚀 **Next mission:** Grow into a versatile, thoughtful software engineer.
-
-> *"Great developers aren't born with a power level. They earn it with every problem they solve."*
-
-</td>
-<td width="41%" align="center" valign="middle">
-<img src="assets/dragon-radar.svg" alt="Custom seven Dragon Balls radar with a sword" width="100%" />
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>GOVN Launcher</h3>
+      <p>A Windows launcher concept focused on simplifying game setup, modpack delivery, version management, and the player experience.</p>
+      <p><code>Desktop tools</code> <code>Automation</code> <code>UX</code></p>
+      <a href="https://github.com/DaoHao-dev?tab=repositories">Browse repositories ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>GoVN RPG Server</h3>
+      <p>A custom Minecraft server project exploring scripting, configuration, server administration, performance, and gameplay systems.</p>
+      <p><code>Scripting</code> <code>Servers</code> <code>Troubleshooting</code></p>
+      <a href="https://github.com/DaoHao-dev?tab=repositories">Browse repositories ↗</a>
+    </td>
+  </tr>
 </table>
 
-<div align="center">
-<img src="assets/seven-dragon-balls.svg" alt="Seven Dragon Balls separator" width="100%" />
-</div>
+<sub>Personal projects in progress. Individual repository links can be added once published.</sub>
 
-<div align="center"><h2>🛠️ MY TECH TRAINING GROUND</h2></div>
+## 04 — GitHub Snapshot
 
 <div align="center">
 
-**Areas I'm studying and exploring — not a claim of mastery.**
+<img src="assets/github-stats.svg" alt="GitHub statistics built from public GitHub data" width="98%" />
 
-**Programming & Web**
-
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark" alt="Programming languages and web technologies of interest" />
-
-**Developer Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux&theme=dark" alt="Developer tools and platforms" />
-
-**Exploring next**
-
-<img src="https://skillicons.dev/icons?i=mysql,docker,nodejs,react&theme=dark" alt="Technologies on my learning roadmap" />
-
-<br />
-
-`Problem Solving` · `OOP` · `Data Structures & Algorithms` · `Database Fundamentals` · `System Design Basics`
+<sub>This panel is generated from public GitHub API data by the included workflow. It shows a clean placeholder until the first successful run.</sub>
 
 </div>
 
-<details>
-<summary><b>📚 Show my current learning roadmap</b></summary>
-<br />
-
-| Training quest | What I'm working toward |
-| --- | --- |
-| 🥋 Foundations | Stronger algorithmic thinking, OOP, and clean code |
-| ⚙️ Backend | Building APIs and understanding data flow |
-| 🗄️ Data | Designing schemas and working with SQL |
-| 🧰 Tools | Version control, debugging, and automation |
-| 🧪 Engineering | Testing, documentation, and maintainable software |
-
-</details>
-
-<br />
-
-<div align="center"><h2>🚀 FEATURED SIDE QUESTS</h2></div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🖥️ GOVN Launcher
-
-A Windows launcher project designed to simplify Minecraft setup, modpack management, and updates.
-
-**What I explore:** desktop tooling, file management, configuration, and user experience.
-
-<a href="https://github.com/DaoHao-dev?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-ff8a26?style=for-the-badge&logo=github&logoColor=white&labelColor=17171b" alt="Explore projects" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### ⛏️ GoVN RPG Server
-
-A modded Minecraft server project focused on gameplay customization, configuration, and server-side automation.
-
-**What I explore:** scripting, system administration, troubleshooting, and performance.
-
-<a href="https://github.com/DaoHao-dev?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-ff8a26?style=for-the-badge&logo=github&logoColor=white&labelColor=17171b" alt="Explore projects" /></a>
-
-</td>
-</tr>
-</table>
-
-> 🧭 **Project status:** These are personal projects in development. Replace the repository-list links with their real repository URLs once published.
-
-<div align="center"><h2>📊 BATTLE STATS · GITHUB ACTIVITY</h2></div>
+## 05 — Milestones & Achievements
 
 <div align="center">
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=DaoHao-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF9B35&icon_color=FF9B35&text_color=D9E1EC&ring_color=FF9B35" alt="GitHub statistics" />
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaoHao-dev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF9B35&text_color=D9E1EC" alt="Top public repository languages" />
+<img src="assets/milestones.svg" alt="Developer milestones: learn, build, refine, share" width="98%" />
 
-<br />
-
-<img src="https://streak-stats.demolab.com?user=DaoHao-dev&theme=dark&hide_border=true&background=0D1117&ring=FF9B35&fire=FF6C2D&currStreakLabel=FFAA4B&sideLabels=E7DFD6&dates=8E96A6" alt="GitHub activity streak" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaoHao-dev&theme=github_dark" alt="GitHub contribution timeline" width="98%" />
+[See my official GitHub achievements →](https://github.com/DaoHao-dev?tab=achievements)
 
 </div>
 
-<details>
-<summary><b>🏆 Show GitHub trophies</b></summary>
-<br />
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DaoHao-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" width="98%" />
-</div>
-</details>
+<sub>Replaces the unreliable external trophy image. Milestones above describe goals, not unlocked GitHub awards.</sub>
 
-<br />
-
-<div align="center"><h2>🐉 CONTRIBUTION QUEST · SNAKE ANIMATION</h2></div>
+## 06 — Contribution Snake
 
 <div align="center">
 
-<!-- This animation starts working AFTER you run the included GitHub Action and it creates the output branch. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaoHao-dev/DaoHao-dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaoHao-dev/DaoHao-dev/output/github-snake.svg" />
-  <img alt="Snake eating GitHub contributions - run the included Action to activate" src="https://raw.githubusercontent.com/DaoHao-dev/DaoHao-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
+  <img src="assets/github-snake-dark.svg" alt="GitHub contribution snake animation, generated daily by GitHub Actions" width="98%" />
 </picture>
 
-<sub>🐍 Enable this by uploading <code>.github/workflows/snake.yml</code> and running it from the Actions tab. It updates automatically every day.</sub>
+<sub>First run: <b>Actions → Update profile visuals → Run workflow</b>. After a successful run, the static starter image is replaced with the real animated Snake.</sub>
 
 </div>
 
-<br />
+## 07 — Next Chapters
 
-<div align="center"><h2>🎯 THE NEXT TRAINING ARC</h2></div>
+- [ ] Publish a project with clear setup instructions and screenshots.
+- [ ] Build better habits for testing, code reviews, and documentation.
+- [ ] Explore a backend framework and build a small production-style API.
+- [ ] Keep improving fundamentals: algorithms, databases, and system design.
 
-<table>
-<tr><th>01 · LEARN</th><th>02 · BUILD</th><th>03 · IMPROVE</th></tr>
-<tr><td>Deepen CS fundamentals</td><td>Ship real, useful software</td><td>Refactor, test, and document</td></tr>
-</table>
+---
 
 <div align="center">
 
-<img src="assets/seven-dragon-balls.svg" alt="Dragon Ball thematic divider" width="100%" />
+**Thanks for stopping by.**
 
-### ✨ "Every commit is another step toward the next transformation."
-
-<sub>Made with curiosity, caffeine, and seven Dragon Balls. 🟠</sub>
-
-**Thanks for visiting my developer journey!**
-
-<a href="https://github.com/DaoHao-dev"><img src="https://img.shields.io/badge/Back_to_GitHub-ff8a26?style=for-the-badge&logo=github&logoColor=white&labelColor=17171b" alt="GitHub profile" /></a>
+<sub>© DaoHao-dev · Built to learn, engineered to last.</sub>
 
 </div>

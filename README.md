@@ -44,7 +44,122 @@ My current direction is to strengthen core computer science knowledge while gett
 | **Developer workflow** | Git, GitHub, documentation and automation |
 | **Curiosity zone** | Desktop tools, game servers and modded environments |
 
-**Topics & tools on my radar:** `Java` `JavaScript` `Python` `SQL` `Git` `Linux` `APIs` `Automation`
+**Topics & tools on my radar:** 
+<!-- DAOHAO-DEV | ENGINEERING ARSENAL — START -->
+<div align="center">
+  <h2>ENGINEERING ARSENAL</h2>
+  <sub>Languages &bull; Frameworks &bull; Infrastructure &bull; Security &bull; Tools</sub>
+  <p><em>Building, experimenting and continuously learning.</em></p>
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts,cpp,go,bash,linux,git,github,docker,mysql,postgres,nodejs,react,vscode&amp;theme=dark&amp;perline=8" alt="Core development technologies" />
+</div>
+
+
+<table align="center"><tr>
+  <td><img src="https://img.shields.io/badge/Engineering-111111?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Engineering" /></td>
+  <td><img src="https://img.shields.io/badge/Linux%20%26%20Security-202020?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="Linux & Security" /></td>
+  <td><img src="https://img.shields.io/badge/Always%20Learning-333333?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Always Learning" /></td>
+</tr></table>
+
+<h3>Explore the toolkit</h3>
+<p>Grouped by domain to keep the profile readable. The expanded lists include tools I use, study or explore — not a claim of expert-level mastery.</p>
+
+<details open>
+  <summary><b>01 / Programming Languages</b> &nbsp; <sub>18 technologies</sub></summary>
+  <br>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,ts,go,rust,php,ruby,kotlin,swift,dart,lua,r,bash,powershell&amp;theme=dark&amp;perline=8" alt="01 / Programming Languages logos" />
+  </p>
+</details>
+
+<details>
+  <summary><b>02 / Frontend &amp; UI</b> &nbsp; <sub>16 technologies</sub></summary>
+  <br>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,svelte,tailwind,bootstrap,sass,redux,materialui,astro,threejs,vite,webpack&amp;theme=dark&amp;perline=8" alt="02 / Frontend &amp; UI logos" />
+  </p>
+</details>
+
+<details>
+  <summary><b>03 / Backend &amp; APIs</b> &nbsp; <sub>16 technologies</sub></summary>
+  <br>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,dotnet,django,flask,fastapi,laravel,rails,graphql,nginx,hibernate,gradle,maven,ktor&amp;theme=dark&amp;perline=8" alt="03 / Backend &amp; APIs logos" />
+  </p>
+</details>
+
+<details>
+  <summary><b>04 / Database &amp; Storage</b> &nbsp; <sub>12 technologies</sub></summary>
+  <br>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,firebase,supabase,prisma,cassandra,dynamodb,elasticsearch,sequelize&amp;theme=dark&amp;perline=8" alt="04 / Database &amp; Storage logos" />
+  </p>
+</details>
+
+<details>
+  <summary><b>05 / Cloud, DevOps &amp; Infrastructure</b> &nbsp; <sub>16 technologies</sub></summary>
+  <br>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,cloudflare,terraform,ansible,jenkins,githubactions,gitlab,nginx,netlify,vercel,prometheus,grafana&amp;theme=dark&amp;perline=8" alt="05 / Cloud, DevOps &amp; Infrastructure logos" />
+  </p>
+</details>
+
+<details>
+  <summary><b>06 / Linux &amp; Security Environment</b> &nbsp; <sub>12 technologies</sub></summary>
+  <br>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,debian,arch,redhat,bash,powershell,vim,neovim,windows,bsd&amp;theme=dark&amp;perline=8" alt="06 / Linux &amp; Security Environment logos" />
+  </p>
+  <p><b>Security research & learning:</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/Nmap-161B22?style=for-the-badge&amp;logoColor=white" alt="Nmap" />
+    <img src="https://img.shields.io/badge/Wireshark-161B22?style=for-the-badge&amp;logoColor=white" alt="Wireshark" />
+    <img src="https://img.shields.io/badge/Burp%20Suite-161B22?style=for-the-badge&amp;logoColor=white" alt="Burp Suite" />
+    <img src="https://img.shields.io/badge/Metasploit-161B22?style=for-the-badge&amp;logoColor=white" alt="Metasploit" />
+    <img src="https://img.shields.io/badge/OWASP%20ZAP-161B22?style=for-the-badge&amp;logoColor=white" alt="OWASP ZAP" />
+    <img src="https://img.shields.io/badge/Ghidra-161B22?style=for-the-badge&amp;logoColor=white" alt="Ghidra" />
+    <img src="https://img.shields.io/badge/Hashcat-161B22?style=for-the-badge&amp;logoColor=white" alt="Hashcat" />
+    <img src="https://img.shields.io/badge/Network%20Analysis-161B22?style=for-the-badge&amp;logoColor=white" alt="Network Analysis" />
+    <img src="https://img.shields.io/badge/Web%20Security-161B22?style=for-the-badge&amp;logoColor=white" alt="Web Security" />
+  </p>
+</details>
+
+<details>
+  <summary><b>07 / Developer Tools &amp; IDEs</b> &nbsp; <sub>16 technologies</sub></summary>
+  <br>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,idea,pycharm,webstorm,clion,postman,notion,figma,obsidian,stackoverflow,androidstudio,windows&amp;theme=dark&amp;perline=8" alt="07 / Developer Tools &amp; IDEs logos" />
+  </p>
+</details>
+
+<details>
+  <summary><b>08 / Testing &amp; Automation</b> &nbsp; <sub>9 technologies</sub></summary>
+  <br>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=jest,selenium,cypress,vitest,postman,sentry,regex,gherkin,githubactions&amp;theme=dark&amp;perline=8" alt="08 / Testing &amp; Automation logos" />
+  </p>
+</details>
+
+<details>
+  <summary><b>09 / AI, Data Science &amp; Computer Vision</b> &nbsp; <sub>8 technologies</sub></summary>
+  <br>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda,matlab,r&amp;theme=dark&amp;perline=8" alt="09 / AI, Data Science &amp; Computer Vision logos" />
+  </p>
+</details>
+
+<details>
+  <summary><b>10 / Desktop, Mobile &amp; Game Tech</b> &nbsp; <sub>10 technologies</sub></summary>
+  <br>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=electron,tauri,flutter,unity,unreal,godot,blender,androidstudio,dart,qt&amp;theme=dark&amp;perline=8" alt="10 / Desktop, Mobile &amp; Game Tech logos" />
+  </p>
+</details>
+
+<br>
+<div align="center">
+  <sub>Curiosity over credentials. Practice over appearances. Progress over perfection.</sub>
+</div>
+<!-- DAOHAO-DEV | ENGINEERING ARSENAL — END -->
 
 <sub>These are areas of study and exploration, not claims of professional proficiency in every technology.</sub>
 

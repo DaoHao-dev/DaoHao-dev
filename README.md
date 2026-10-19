@@ -23,7 +23,7 @@
 <tr>
 <td width="59%" valign="top">
 
-### Hi, I'm Hào! 👋
+### Hi, I'm Hảo! 👋
 
 I'm a **third-year Information Technology student** in Vietnam, building a solid foundation in computer science while turning ideas into practical projects.
 

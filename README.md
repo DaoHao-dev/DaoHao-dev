@@ -9,8 +9,8 @@
 
 <br />
 
-<a href="https://github.com/tt186057-stack?tab=followers"><img src="https://img.shields.io/github/followers/tt186057-stack?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=ff8a26&labelColor=141414" alt="Followers" /></a>
-<a href="https://github.com/tt186057-stack?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-ff8a26?style=for-the-badge&logo=github&logoColor=white&labelColor=141414" alt="Explore repositories" /></a>
+<a href="https://github.com/DaoHao-dev?tab=followers"><img src="https://img.shields.io/github/followers/DaoHao-dev?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=ff8a26&labelColor=141414" alt="Followers" /></a>
+<a href="https://github.com/DaoHao-dev?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-ff8a26?style=for-the-badge&logo=github&logoColor=white&labelColor=141414" alt="Explore repositories" /></a>
 <img src="https://komarev.com/ghpvc/?username=DaoHao-dev&label=Profile+views&color=ff8a26&style=for-the-badge" alt="Profile view counter" />
 
 </div>
@@ -98,7 +98,7 @@ A Windows launcher project designed to simplify Minecraft setup, modpack managem
 
 **What I explore:** desktop tooling, file management, configuration, and user experience.
 
-<a href="https://github.com/tt186057-stack?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-ff8a26?style=for-the-badge&logo=github&logoColor=white&labelColor=17171b" alt="Explore projects" /></a>
+<a href="https://github.com/DaoHao-dev?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-ff8a26?style=for-the-badge&logo=github&logoColor=white&labelColor=17171b" alt="Explore projects" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -109,7 +109,7 @@ A modded Minecraft server project focused on gameplay customization, configurati
 
 **What I explore:** scripting, system administration, troubleshooting, and performance.
 
-<a href="https://github.com/tt186057-stack?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-ff8a26?style=for-the-badge&logo=github&logoColor=white&labelColor=17171b" alt="Explore projects" /></a>
+<a href="https://github.com/DaoHao-dev?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-ff8a26?style=for-the-badge&logo=github&logoColor=white&labelColor=17171b" alt="Explore projects" /></a>
 
 </td>
 </tr>
@@ -178,6 +178,6 @@ A modded Minecraft server project focused on gameplay customization, configurati
 
 **Thanks for visiting my developer journey!**
 
-<a href="https://github.com/tt186057-stack"><img src="https://img.shields.io/badge/Back_to_GitHub-ff8a26?style=for-the-badge&logo=github&logoColor=white&labelColor=17171b" alt="GitHub profile" /></a>
+<a href="https://github.com/DaoHao-dev"><img src="https://img.shields.io/badge/Back_to_GitHub-ff8a26?style=for-the-badge&logo=github&logoColor=white&labelColor=17171b" alt="GitHub profile" /></a>
 
 </div>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="78" viewBox="0 0 1000 78" role="img" aria-label="Seven Dragon Balls and neon energy dividing line"><defs><radialGradient id="orb"><stop stop-color="#ffe9ae"/><stop offset=".55" stop-color="#ffaf30"/><stop offset="1" stop-color="#d34d00"/></radialGradient><linearGradient id="line"><stop stop-color="#32140b"/><stop offset=".5" stop-color="#ff8d26"/><stop offset="1" stop-color="#32140b"/></linearGradient></defs>
+<rect width="1000" height="78" fill="#0d1117"/>
+<path d="M14 39H985" stroke="url(#line)" stroke-width="1.5"/>
+<rect x="342" y="4" width="316" height="70" rx="24" fill="#0d1117"/>
+<g fill="url(#orb)" stroke="#ffdc73" stroke-width="1.2">
+<circle cx="385" cy="39" r="15"/><circle cx="423" cy="39" r="15"/><circle cx="461" cy="39" r="15"/><circle cx="499" cy="39" r="15"/><circle cx="537" cy="39" r="15"/><circle cx="575" cy="39" r="15"/><circle cx="613" cy="39" r="15"/>
+</g>
+<g fill="#b53d00" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" text-anchor="middle" font-weight="bold"><text x="385" y="44">★</text><text x="423" y="44">★</text><text x="461" y="44">★</text><text x="499" y="44">★</text><text x="537" y="44">★</text><text x="575" y="44">★</text><text x="613" y="44">★</text></g></svg>

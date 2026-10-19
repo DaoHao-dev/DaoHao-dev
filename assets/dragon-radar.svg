@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="340" viewBox="0 0 520 340" role="img" aria-label="Dragon Radar, glowing energy orbs and sword">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10151e"/><stop offset="1" stop-color="#21130e"/></linearGradient>
+<radialGradient id="pulse"><stop stop-color="#ffda67" stop-opacity=".23"/><stop offset="1" stop-color="#ff6900" stop-opacity="0"/></radialGradient>
+<radialGradient id="ball" cx=".32" cy=".22" r=".82"><stop stop-color="#ffe7a5"/><stop offset=".38" stop-color="#ffb333"/><stop offset="1" stop-color="#e95008"/></radialGradient>
+<linearGradient id="blade" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d7fbff"/><stop offset=".5" stop-color="#5de7ff"/><stop offset="1" stop-color="#017bbe"/></linearGradient>
+<filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="520" height="340" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="518" height="338" rx="21" fill="none" stroke="#fa7b25" stroke-opacity=".35"/>
+<g transform="translate(260 160)">
+<circle r="120" fill="url(#pulse)"/><circle r="114" fill="none" stroke="#ff9b30" stroke-opacity=".35" stroke-width="2"/>
+<circle r="83" fill="none" stroke="#ff9b30" stroke-opacity=".17" stroke-dasharray="5 9" stroke-width="2"/>
+<circle r="48" fill="none" stroke="#ff9b30" stroke-opacity=".19"/>
+<path d="M-134 0H134M0-134V134" stroke="#f89c40" opacity=".13" stroke-width="1"/>
+<!-- seven glowing dragon balls -->
+<g filter="url(#glow)">
+<circle cx="-82" cy="-48" r="22" fill="url(#ball)"/><circle cx="-30" cy="-94" r="17" fill="url(#ball)"/>
+<circle cx="43" cy="-90" r="21" fill="url(#ball)"/><circle cx="92" cy="-28" r="18" fill="url(#ball)"/>
+<circle cx="78" cy="59" r="20" fill="url(#ball)"/><circle cx="3" cy="95" r="21" fill="url(#ball)"/><circle cx="-78" cy="59" r="17" fill="url(#ball)"/>
+</g>
+<g fill="#d74b0b" font-family="DejaVu Sans,Arial,sans-serif" font-weight="bold" text-anchor="middle" font-size="15">
+<text x="-82" y="-43">★</text><text x="-30" y="-89">★</text>
+<text x="43" y="-85">★</text><text x="92" y="-23">★</text>
+<text x="78" y="64">★</text><text x="3" y="100">★</text><text x="-78" y="64">★</text>
+</g>
+<!-- futuristic sword at center, Dragon Ball Trunks-inspired motif -->
+<g transform="rotate(-34)">
+<path d="M-7 -60L-5 -7H5L7 -60L0 -88Z" fill="url(#blade)" filter="url(#glow)"/>
+<path d="M0 -76V-8" stroke="#ecfdff" stroke-width="2" opacity=".9"/>
+<path d="M-28 -5Q0 -16 28 -5L28 1Q0 -2 -28 1Z" fill="#fabf62"/>
+<rect x="-6" y="-2" width="12" height="41" rx="4" fill="#7034b0" stroke="#e9abf8" stroke-width="2"/>
+<path d="M-4 5L4 12M-4 17L4 24M-4 29L4 36" stroke="#ffd08f" stroke-width="2"/>
+<circle cy="42" r="8" fill="#ffbc52"/>
+</g>
+</g>
+<text x="25" y="34" fill="#ffbc63" font-family="monospace" font-size="17" font-weight="bold" letter-spacing="3">DRAGON RADAR // ONLINE</text>
+<text x="25" y="316" fill="#b7bfcd" font-family="monospace" font-size="14">TRAINING ARC: YEAR 03</text>
+<text x="494" y="316" text-anchor="end" fill="#ff993e" font-family="monospace" font-size="14">07 / 07</text>
+</svg>

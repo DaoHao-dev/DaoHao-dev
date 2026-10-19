@@ -11,7 +11,7 @@
 
 <a href="https://github.com/tt186057-stack?tab=followers"><img src="https://img.shields.io/github/followers/tt186057-stack?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=ff8a26&labelColor=141414" alt="Followers" /></a>
 <a href="https://github.com/tt186057-stack?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-ff8a26?style=for-the-badge&logo=github&logoColor=white&labelColor=141414" alt="Explore repositories" /></a>
-<img src="https://komarev.com/ghpvc/?username=tt186057-stack&label=Profile+views&color=ff8a26&style=for-the-badge" alt="Profile view counter" />
+<img src="https://komarev.com/ghpvc/?username=DaoHao-dev&label=Profile+views&color=ff8a26&style=for-the-badge" alt="Profile view counter" />
 
 </div>
 
@@ -121,16 +121,16 @@ A modded Minecraft server project focused on gameplay customization, configurati
 
 <div align="center">
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=tt186057-stack&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF9B35&icon_color=FF9B35&text_color=D9E1EC&ring_color=FF9B35" alt="GitHub statistics" />
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt186057-stack&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF9B35&text_color=D9E1EC" alt="Top public repository languages" />
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=DaoHao-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF9B35&icon_color=FF9B35&text_color=D9E1EC&ring_color=FF9B35" alt="GitHub statistics" />
+<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaoHao-dev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF9B35&text_color=D9E1EC" alt="Top public repository languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=tt186057-stack&theme=dark&hide_border=true&background=0D1117&ring=FF9B35&fire=FF6C2D&currStreakLabel=FFAA4B&sideLabels=E7DFD6&dates=8E96A6" alt="GitHub activity streak" />
+<img src="https://streak-stats.demolab.com?user=DaoHao-dev&theme=dark&hide_border=true&background=0D1117&ring=FF9B35&fire=FF6C2D&currStreakLabel=FFAA4B&sideLabels=E7DFD6&dates=8E96A6" alt="GitHub activity streak" />
 
 <br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tt186057-stack&theme=github_dark" alt="GitHub contribution timeline" width="98%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaoHao-dev&theme=github_dark" alt="GitHub contribution timeline" width="98%" />
 
 </div>
 
@@ -138,7 +138,7 @@ A modded Minecraft server project focused on gameplay customization, configurati
 <summary><b>🏆 Show GitHub trophies</b></summary>
 <br />
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tt186057-stack&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" width="98%" />
+<img src="https://github-profile-trophy.vercel.app/?username=DaoHao-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" width="98%" />
 </div>
 </details>
 
@@ -150,9 +150,9 @@ A modded Minecraft server project focused on gameplay customization, configurati
 
 <!-- This animation starts working AFTER you run the included GitHub Action and it creates the output branch. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tt186057-stack/tt186057-stack/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tt186057-stack/tt186057-stack/output/github-snake.svg" />
-  <img alt="Snake eating GitHub contributions - run the included Action to activate" src="https://raw.githubusercontent.com/tt186057-stack/tt186057-stack/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaoHao-dev/DaoHao-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaoHao-dev/DaoHao-dev/output/github-snake.svg" />
+  <img alt="Snake eating GitHub contributions - run the included Action to activate" src="https://raw.githubusercontent.com/DaoHao-dev/DaoHao-dev/output/github-snake-dark.svg" />
 </picture>
 
 <sub>🐍 Enable this by uploading <code>.github/workflows/snake.yml</code> and running it from the Actions tab. It updates automatically every day.</sub>
